@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "3b767a20-10de-4e8f-b19a-a000bef9fccc"
+      }
+    },
+    "android": {
+      "package": "com.tetris.earn"
+    },
+    "plugins": [
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-8207974891572934~9879001817"
+        }
+      ]
+    ]
+  }
+}
