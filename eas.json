@@ -8,26 +8,17 @@
       "distribution": "internal",
       "android": {
         "buildType": "apk"
-      },
-      "env": {
-        "APP_ENV": "development"
       }
     },
     "preview": {
       "distribution": "internal",
       "android": {
         "buildType": "apk"
-      },
-      "env": {
-        "APP_ENV": "preview"
       }
     },
     "production": {
       "android": {
-        "buildType": "aab"
-      },
-      "env": {
-        "APP_ENV": "production"
+        "buildType": "apk"
       }
     }
   }
